@@ -25,7 +25,7 @@ This project performs basic arithmetic operations with a clean and user-friendly
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](Screenshot 2026-05-27 124758.png)
+![Calculator Screenshot](calculator.png)
 
 
 ---
