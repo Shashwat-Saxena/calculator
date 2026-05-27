@@ -1,16 +1,37 @@
-### Hi there 👋
+# Calculator App
 
-<!--
-**Shashwat-Saxena/Shashwat-Saxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A simple and responsive Calculator application built using HTML, CSS, and JavaScript.  
+This project performs basic arithmetic operations with a clean and user-friendly interface.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Features
+
+- Addition, Subtraction, Multiplication, Division
+- Responsive Design
+- User-friendly Interface
+- Real-time Calculation
+- Clear Button Functionality
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📸 Screenshot
+
+![Calculator Screenshot](calculator.png)
+
+---
+
+## 📂 Project Setup
+
+1. Clone the repository
+
+```bash
+git clone <your-repo-link>
